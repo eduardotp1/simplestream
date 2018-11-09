@@ -1,0 +1,5 @@
+clouds:
+  openstack:
+    type: openstack
+auth-types: [oauth1]
+endpoint: http://192.168.0.191:433
