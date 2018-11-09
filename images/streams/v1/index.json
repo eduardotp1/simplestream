@@ -1,0 +1,23 @@
+{
+    "index": {
+        "com.ubuntu.cloud:custom": {
+            "updated": "Wed, 07 Nov 2018 17:50:15 +0000",
+            "format": "products:1.0",
+            "datatype": "image-ids",
+            "cloudname": "custom",
+            "clouds": [
+                {
+                    "region": "RegionOne",
+                    "endpoint": "http://192.168.0.180:5000/v2.0/"
+                }
+            ],
+            "path": "streams/v1/com.ubuntu.cloud-released-imagemetadata.json",
+            "products": [
+                "com.ubuntu.cloud:server:16.04:amd64",
+                "com.ubuntu.cloud:server:18.04:amd64"
+            ]
+        }
+    },
+    "updated": "Wed, 07 Nov 2018 17:50:15 +0000",
+    "format": "index:1.0"
+}

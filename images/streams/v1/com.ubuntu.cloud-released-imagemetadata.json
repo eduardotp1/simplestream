@@ -1,0 +1,37 @@
+{
+    "products": {
+        "com.ubuntu.cloud:server:16.04:amd64": {
+            "version": "16.04",
+            "arch": "amd64",
+            "versions": {
+                "20181107": {
+                    "items": {
+                        "6d8ead17-50b7-426c-ab10-b43b95521856": {
+                            "id": "6d8ead17-50b7-426c-ab10-b43b95521856",
+                            "region": "RegionOne",
+                            "endpoint": "http://192.168.0.180:5000/v2.0/"
+                        }
+                    }
+                }
+            }
+        },
+        "com.ubuntu.cloud:server:18.04:amd64": {
+            "version": "18.04",
+            "arch": "amd64",
+            "versions": {
+                "20181107": {
+                    "items": {
+                        "fbe3fa18-1ef7-4301-ad45-f0b1d873f1bc": {
+                            "id": "fbe3fa18-1ef7-4301-ad45-f0b1d873f1bc",
+                            "region": "RegionOne",
+                            "endpoint": "http://192.168.0.180:5000/v2.0/"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "updated": "Wed, 07 Nov 2018 17:50:15 +0000",
+    "format": "products:1.0",
+    "content_id": "com.ubuntu.cloud:custom"
+}
